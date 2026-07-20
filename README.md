@@ -1,41 +1,50 @@
-````md
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:06b6d4&text=Nisar%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nisar%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Nisar Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Nisar Ahmad</h1>
 
 <h3 align="center">
-Frontend Developer • React Enthusiast • MERN Stack Learner
+Frontend Developer • React Developer • MERN Stack Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;HTML+CSS+JavaScript+React;Learning+MERN+Stack;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Responsive+Websites;Learning+MERN+Stack;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 BS Information Technology
+- 🎓 BS Information Technology Student
 - 💻 Frontend Developer
-- ⚛ Currently Learning MERN Stack
-- 🎯 Passionate about Responsive UI & Animations
-- 🚀 Open to Internship & Freelance Opportunities
+- ⚛ Currently learning **MERN Stack**
+- 🎯 Passionate about Responsive UI, Animations & Clean Code
+- 🚀 Looking for Frontend & MERN opportunities
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma,bootstrap"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📂 Featured Projects
+
+- 🎨 Responsive Profile Card
+- 💳 Pricing Cards (Flexbox & Grid)
+- 🌐 Responsive Landing Pages
+- ⚛ React Mini Projects
+- 🚀 Internship Projects @ NeuroFive Solutions
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -45,6 +54,10 @@ Frontend Developer • React Enthusiast • MERN Stack Learner
 
 </p>
 
+---
+
+## 💻 Most Used Languages
+
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisarAhmadCode&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -53,7 +66,7 @@ Frontend Developer • React Enthusiast • MERN Stack Learner
 
 ---
 
-# 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -63,7 +76,7 @@ Frontend Developer • React Enthusiast • MERN Stack Learner
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -73,66 +86,36 @@ Frontend Developer • React Enthusiast • MERN Stack Learner
 
 ---
 
-# 🐍 Snake Animation
+## 🌱 Currently Learning
 
-> **Step 1:** Create a repository named `.github`
-
-Inside it create:
-
-```
-.github/workflows/snake.yml
-```
-
-Paste this workflow:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NisarAhmadCode
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-README me ye image add karo:
-
-```md
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/NisarAhmadCode/NisarAhmadCode/output/github-contribution-grid-snake.svg"/>
-
-</p>
-```
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Git & GitHub Best Practices
 
 ---
 
-# 🌐 Connect
+## 🎯 2026 Goals
+
+- ✅ Complete MERN Stack
+- 🚀 Build Full Stack Projects
+- 💼 Land a Full-Time Developer Role
+- 🌍 Contribute to Open Source
+- ⭐ Grow GitHub Portfolio
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/NisarAhmadCode">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nisar-ahmad-webdev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -144,13 +127,10 @@ README me ye image add karo:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NisarAhmadCode&label=Visitors&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=NisarAhmadCode&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 <p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:2563eb,100:06b6d4"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>
 </p>
-````
