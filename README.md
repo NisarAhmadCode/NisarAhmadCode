@@ -1,3 +1,4 @@
+```md
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nisar%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=58"/>
 </p>
@@ -9,7 +10,7 @@ Frontend Developer • React Developer • MERN Stack Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Responsive+Websites;Learning+MERN+Stack;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Responsive+Websites;Learning+MERN+Stack;Open+to+New+Opportunities" />
 </p>
 
 ---
@@ -17,72 +18,51 @@ Frontend Developer • React Developer • MERN Stack Learner
 ## 🚀 About Me
 
 - 🎓 BS Information Technology Student
-- 💻 Frontend Developer
-- ⚛ Currently learning **MERN Stack**
-- 🎯 Passionate about Responsive UI, Animations & Clean Code
-- 🚀 Looking for Frontend & MERN opportunities
+- 💻 Passionate Frontend Developer
+- ⚛ Learning MERN Stack
+- 🎨 Love building responsive and interactive web experiences
+- 🚀 Currently improving my frontend and backend development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,figma,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,figma"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-- 🎨 Responsive Profile Card
-- 💳 Pricing Cards (Flexbox & Grid)
-- 🌐 Responsive Landing Pages
-- ⚛ React Mini Projects
-- 🚀 Internship Projects @ NeuroFive Solutions
+### 🛒 MERN E-Commerce Platform
+A complete e-commerce application featuring authentication, product management, shopping cart, checkout, and admin dashboard.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NisarAhmadCode&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=NisarAhmadCode&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
-## 💻 Most Used Languages
+### 💼 Frontend Internship Projects
+Developed modern, responsive, and reusable UI components during my internship at **NeuroFive Solutions**.
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisarAhmadCode&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Tech:** HTML • CSS • JavaScript • React
 
 ---
 
-## 🏆 GitHub Trophies
+### 🎨 Interactive Developer Portfolio
+A premium portfolio with smooth animations, responsive layouts, and modern UI inspired by Awwwards.
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NisarAhmadCode&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+**Tech:** HTML • CSS • JavaScript • GSAP
 
 ---
 
-## 📈 Contribution Graph
+### 🌐 Responsive Landing Pages
+Built fast, mobile-first, SEO-friendly landing pages with clean and accessible UI.
 
-<p align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NisarAhmadCode&theme=tokyo-night&hide_border=true"/>
-
-</p>
+### ⚛ React Projects
+Collection of React applications featuring routing, API integration, forms, reusable components, and state management.
 
 ---
 
@@ -99,11 +79,11 @@ Frontend Developer • React Developer • MERN Stack Learner
 
 ## 🎯 2026 Goals
 
-- ✅ Complete MERN Stack
-- 🚀 Build Full Stack Projects
-- 💼 Land a Full-Time Developer Role
+- 🚀 Become a Full Stack MERN Developer
+- 💼 Build Production-Level Applications
 - 🌍 Contribute to Open Source
-- ⭐ Grow GitHub Portfolio
+- 📚 Learn Backend Architecture
+- ⭐ Grow My Developer Portfolio
 
 ---
 
@@ -126,11 +106,10 @@ Frontend Developer • React Developer • MERN Stack Learner
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=NisarAhmadCode&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=120"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 </p>
+```
