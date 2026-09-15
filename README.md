@@ -1,27 +1,27 @@
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nisar%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=58"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Nisar%20Ahmad&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20E-commerce%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nisar Ahmad</h1>
 
 <h3 align="center">
-Frontend Developer • React Developer • MERN Stack Learner
+Full-Stack Web Developer • React Developer • E-commerce Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Responsive+Websites;Learning+MERN+Stack;Open+to+New+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+Developer;E-commerce+Developer;Building+Modern+Responsive+Websites;Building+Web+Applications;Open+to+New+Opportunities" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BS Information Technology Student
-- 💻 Passionate Frontend Developer
-- ⚛ Learning MERN Stack
-- 🎨 Love building responsive and interactive web experiences
-- 🚀 Currently improving my frontend and backend development skills
+* 🎓 BS Information Technology Student
+* 💻 Full-Stack Web Developer
+* ⚛ React Developer
+* 🛒 E-commerce Developer
+* 🎨 Love building responsive and interactive web experiences
+* 🚀 Focused on building modern, scalable and user-friendly web applications
 
 ---
 
@@ -36,13 +36,15 @@ Frontend Developer • React Developer • MERN Stack Learner
 ## 🚀 Featured Projects
 
 ### 🛒 MERN E-Commerce Platform
-A complete e-commerce application featuring authentication, product management, shopping cart, checkout, and admin dashboard.
+
+A full-stack e-commerce application featuring authentication, product management, shopping cart, checkout, and admin dashboard.
 
 **Tech:** React • Node.js • Express • MongoDB
 
 ---
 
 ### 💼 Frontend Internship Projects
+
 Developed modern, responsive, and reusable UI components during my internship at **NeuroFive Solutions**.
 
 **Tech:** HTML • CSS • JavaScript • React
@@ -50,6 +52,7 @@ Developed modern, responsive, and reusable UI components during my internship at
 ---
 
 ### 🎨 Interactive Developer Portfolio
+
 A premium portfolio with smooth animations, responsive layouts, and modern UI inspired by Awwwards.
 
 **Tech:** HTML • CSS • JavaScript • GSAP
@@ -57,33 +60,24 @@ A premium portfolio with smooth animations, responsive layouts, and modern UI in
 ---
 
 ### 🌐 Responsive Landing Pages
+
 Built fast, mobile-first, SEO-friendly landing pages with clean and accessible UI.
 
 ---
 
 ### ⚛ React Projects
+
 Collection of React applications featuring routing, API integration, forms, reusable components, and state management.
-
----
-
-## 🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Git & GitHub Best Practices
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Become a Full Stack MERN Developer
-- 💼 Build Production-Level Applications
-- 🌍 Contribute to Open Source
-- 📚 Learn Backend Architecture
-- ⭐ Grow My Developer Portfolio
+* 🚀 Build Production-Level Applications
+* 💼 Work on Real-World Development Projects
+* 🌍 Contribute to Open Source
+* 📚 Improve Backend Architecture & System Design
+* ⭐ Grow My Developer Portfolio
 
 ---
 
@@ -95,7 +89,7 @@ Collection of React applications featuring routing, API integration, forms, reus
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://www.linkedin.com/in/nisar-ahmad-webdev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
