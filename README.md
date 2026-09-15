@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nisar Ahmad</h1>
 
 <h3 align="center">
-Full-Stack Web Developer • React Developer • WordPress & Shopify Developer
+Full-Stack Web Developer • React Developer • WordPress &amp; Shopify Developer
 </h3>
 
 <p align="center">
