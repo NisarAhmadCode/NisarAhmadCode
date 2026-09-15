@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=gradient&amp;text=Nisar%20Ahmad&amp;fontColor=ffffff&amp;fontSize=48&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20Developer%20%7C%20WordPress%20%26%20Shopify%20Developer&amp;descAlignY=58"/>
-</p>
+![Nisar Ahmad](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=gradient\&text=Nisar%20Ahmad\&fontColor=ffffff\&fontSize=48\&animation=fadeIn\&fontAlignY=38\&desc=Full-Stack%20Web%20Developer%20%7C%20WordPress%20%26%20Shopify%20Developer\&descAlignY=58)
 
 <h1 align="center">Hi 👋, I'm Nisar Ahmad</h1>
 
@@ -9,7 +7,9 @@ Full-Stack Web Developer • React Developer • WordPress &amp; Shopify Develop
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;size=24&amp;pause=1000&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full-Stack+Web+Developer;React+Developer;WordPress+Developer;Shopify+Developer;E-commerce+Developer;Building+Modern+Web+Applications;Open+to+New+Opportunities" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Web+Developer;React+Developer;WordPress+Developer;Shopify+Developer;E-commerce+Developer;Building+Modern+Web+Applications;Open+to+New+Opportunities)
+
 </p>
 
 ---
@@ -30,7 +30,9 @@ Full-Stack Web Developer • React Developer • WordPress &amp; Shopify Develop
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,wordpress,git,github,vscode,tailwind,bootstrap,figma"/>
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,wordpress,git,github,vscode,tailwind,bootstrap,figma)
+
 </p>
 
 ---
@@ -118,9 +120,11 @@ Collection of React applications featuring routing, API integration, forms, reus
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NisarAhmadCode&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NisarAhmadCode\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=120&amp;color=gradient"/>
-</p>
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&section=footer\&height=120\&color=gradient)
